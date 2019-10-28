@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: s2w
+Version: 0.0.1
+Summary: A package that can convert a paragraph of spoken english to written english
+Home-page: https://github.com/Eshan-Agarwal/Abbreviations-Conversion
+Author: Eshan Agarwal
+Author-email: eshanagarwal12@gmail.com
+License: UNKNOWN
+Description: # Abbreviations-Conversion
+        This repository contain library which convert spoken english like "Triple A" to written English like AAA
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3.0 (gpl-3.0)
+Description-Content-Type: text/markdown

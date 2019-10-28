@@ -1,0 +1,9 @@
+README.md
+setup.py
+conversion/__init__.py
+conversion/conversion.py
+s2w.egg-info/PKG-INFO
+s2w.egg-info/SOURCES.txt
+s2w.egg-info/dependency_links.txt
+s2w.egg-info/requires.txt
+s2w.egg-info/top_level.txt
