@@ -1,6 +1,7 @@
 # Spoken English To Written English Conversion system (s2wconversion)
 
 * This repository contain library which convert spoken english like "Triple A" to written English like AAA or "Double A" to AA.
+* To use this library you have to simply install it using pip and write from conversion import conversion (See demo.py)
 
 ### Installation
 
