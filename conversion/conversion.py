@@ -54,6 +54,8 @@ def conversion():
 			# instead of `r.recognize_google(audio)`
 			print("Input from user after transcript audio by Google Speech Recognition is :" ,r.recognize_google(audio))
 			print("Abbreviations spoken :",repeater(str(r.recognize_google(audio))))
+			abb = repeater(str(r.recognize_google(audio)))
+			return abb
 
 		except sr.UnknownValueError:
 			print("Google Speech Recognition could not understand audio")
