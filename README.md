@@ -16,7 +16,7 @@
 
 If you already have a working installation of numpy and speech_recognition, the easiest way to install s2wconversion is using pip
 
-pip install s2w
+pip install s2w or pip install -i https://test.pypi.org/simple/ s2w
 
 #### Conversion 
 
