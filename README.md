@@ -10,7 +10,7 @@
 
 * Python (>= 3.5)
 * NumPy (>= 1.11.0)
-* speech_recognition
+* SpeechRecognition (>=3)
 
 #### User installation
 
