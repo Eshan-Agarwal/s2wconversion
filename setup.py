@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2","speech_recognition"]
+requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2","SpeechRecognition>=3"]
 
 setup(
     name="s2w",
-    version="0.0.1",
+    version="1.0.0",
     author="Eshan Agarwal",
     author_email="eshanagarwal12@gmail.com",
     description="A package that can convert a paragraph of spoken english to written english",
