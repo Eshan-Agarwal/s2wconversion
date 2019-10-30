@@ -30,6 +30,13 @@ pip install s2w
 * We convert transcript speech into tokens then after apply nltk pos_tagg to detect pos for words and implement some rules
 (See rules.md)
 
+#### How to use
+* Clone or download this repository.
+* run demo.py file to see how it works.
+* after run demo.py it ask some input "Say Something".
+* then it converts speech into written text usin Google Speech Recognition Services, having rules like "Triple A" is "AAA" etc
+* See conversion rule\rules.py file to checkout more rules like punctuations or different pos tags.
+
 #### Future implementations and contributions
 * This repo always open for open source contributions.
 * We can add some more pos tagging rules and implement it to our library.
