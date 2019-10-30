@@ -9,8 +9,9 @@
 #### s2wconversion requires:
 
 * Python (>= 3.5)
-* NumPy (>= 1.11.0)
-* SpeechRecognition (>=3)
+* NumPy (>= 1.11.0) <a href = "https://pypi.org/project/numpy/">
+* SpeechRecognition (>=3) <a href = "https://pypi.org/project/SpeechRecognition/">
+* Pyaudio <a href = "https://pypi.org/project/PyAudio/">
 
 #### User installation
 
